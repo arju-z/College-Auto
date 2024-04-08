@@ -1,0 +1,135 @@
+body{
+    background-color:#D7E4C0;
+    margin: 0;
+    
+}
+
+a
+{
+   
+    padding-top: 1rem;
+    text-decoration: none;
+    color: rgb(28, 35, 41);
+}
+
+.login
+{
+    width: 5%;
+    border-radius: 20px;
+    border-color: #D7E4C0;
+    padding: 0.5rem;
+    background-color: #BBC3A4;
+}
+
+
+h1
+{
+    color: rgb(19, 18, 17);
+    font-size: 2.5rem;
+    font-family: cursive;
+}
+
+p
+{
+    text-align: left;
+    color: rgb(18, 17, 17);
+    font-size: 1.2rem;
+    font-family: 'Exo 2', sans-serif;
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5rem;
+    
+}
+.head
+{
+    height: 1rem;
+    background-color: #C6DCBA;
+    font-size: 1.25rem;
+    color: rgb(39, 43, 47);
+    text-align: right;
+    position: relative;
+    margin-right: 0px;
+    padding-bottom: 2rem ;
+    padding-top: 0.75rem;
+    padding-right: 0.25rem;
+}
+
+
+
+.skill-row{
+   
+    width: 50%;
+    margin:10px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.booking
+{
+    border-radius: 20px;
+    border-width: 0;
+    padding: 1rem;
+    border-color: #BBC3A4;
+    background-color:#BBC3A4 ;
+    box-shadow: 10px;
+}
+
+hr
+{
+    border: dotted #8eabab 6PX;
+    border-bottom: none;
+    width: 5%;
+    margin-left: 100px;
+}
+.foot
+{
+    background-color: #B3A398;
+    margin-left: 50%;
+    position: absolute;
+}
+
+.mid
+{
+    margin-left: 100px;
+    width: 50%;
+    height: auto;
+}
+
+.coding{
+    margin-top: 70px;
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+.chill{
+    padding-top: 50px;
+    margin-top: 30px;
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+}
+
+.dics{
+    margin: 50px auto 50px auto;
+ }
+
+.gap
+{
+    width: 50%;
+    height: 50px;
+}
+
+h1{
+    margin: 0 auto 0 auto;
+    width: 30% ;
+    font-family: 'Carattere', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
